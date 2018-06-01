@@ -1,0 +1,44 @@
+{:navgroup: .navgroup}
+{:topicgroup: .topicgroup}
+
+{: .toc subcollection="virtual-servers-is" audience="compute" href="/docs/vsi-is/getting-started.html"}
+IBM Cloud Virtual Servers with VPC
+
+    {: .navgroup id="learn"}
+    getting-started.md
+    vsi_best_practices.md
+    vsi_is_images.md
+    vsi_is_ssh_keys_about.md
+    vsi_is_provisioning_scripts.md
+    vsi_is_network_security_options.md
+    vsi_is_storage.md
+
+    {: .topicgroup}
+    Related links
+        [About VPC](../infrastructure/vpc/about.html)
+    {: .navgroup-end}
+
+    {: .navgroup id="howto"}
+    {: .topicgroup}
+    Creating
+        vsi_is_create_instance.md
+        vsi_is_create_instance_cli.md
+
+    {: .topicgroup}
+    Connecting
+        vsi_is_connecting_linux_gc.md
+
+    {: .topicgroup}
+    Managing
+        vsi_is_manage_instances.md
+        vsi_is_manage_instances_cli.md
+        vsi_is_ssh_keys.md
+
+    {: .navgroup id="reference"}
+    [VPC API reference](../infrastructure/vpc/apis.html)
+    [Compute CLI commands with VPC](../infrastructure/vpc/cli-compute-reference.html)
+    {: .navgroup-end}
+
+    {: .navgroup id="help"}
+    vsi_is_faq.md
+    {: .navgroup-end}
