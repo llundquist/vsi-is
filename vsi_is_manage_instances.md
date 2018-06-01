@@ -18,7 +18,7 @@ lastupdated: "2018-06-01"
 {:table: .aria-labeledby="caption"}
 
 # Managing virtual server instances
-{: #managing-virtual-server-instances}
+{: #managing-virtual-servers}
 
 You can view and manage your instances from the *Virtual server instances* page in {{site.data.keyword.cloud}} console.
 {:shortdesc}
