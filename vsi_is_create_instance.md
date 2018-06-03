@@ -97,7 +97,7 @@ To create an instance, select the following instance details.
 
     Your *Cost summary* displays on the right side of the *New virtual server instance* page.
 
-3. Click **Create resources** when you are ready to provision.
+3. Click **Create virtual server instance** when you are ready to provision.
 
 Do you prefer to create an instance using the CLI? For more information, see [Creating an instance using the CLI](vsi_is_create_instance_cli.html).
 {: tip}
