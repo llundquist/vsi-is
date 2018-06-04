@@ -26,7 +26,7 @@ You can create instances using the command line interface (CLI).
     * {{site.data.keyword.cloud_notm}} CLI
     * {{site.data.keyword.cloud_notm}} Regional API CLI
 
-   For more information, see [Using the command line interface (CLI)](/docs/infrastructure/vpc/use-cli.html).
+   For more information, see [CLI access](/docs/infrastructure/vpc/how-to-verify-access.html).
 2. Ensure you have already created a virtual private cloud.
 
 ## Gathering information to create an instance using the CLI
@@ -266,7 +266,7 @@ After you know these values, use them to run the `instance-create` command. In a
 
     Remember the floating IP `Address` for later.  
 
-Need more help? You can always run `ibmcloud is instance-create --help` when needed.
+Need more help? You can always run `ibmcloud is help` when needed.
 {: tip}
 
 Do you prefer to create an instance using the {{site.data.keyword.cloud_notm}} console? For more information, see [Creating an instance](vsi_is_create_instance.html).
