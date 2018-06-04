@@ -28,7 +28,7 @@ You can view and manage your instances using the command line interface (CLI).
 To view the management actions performed on your instance, run the following command:
 
 ```
-ibmcloud is instance-actions <server-ID>
+ibmcloud is instance-actions <instance-ID>
 ```
 {:codeblock}
 
