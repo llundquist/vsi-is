@@ -273,6 +273,6 @@ Do you prefer to create an instance using the {{site.data.keyword.cloud_notm}} c
 {: tip}
 
 ## What happens next
-<!-- A series of emails are sent to your administrator: acknowledgment of the virtual server instance order, order approval and processing, and a message stating the instance is created. -->
+A series of emails are sent to your administrator: acknowledgment of the virtual server instance order, order approval and processing, and a message stating the instance is created.
 
 After the server is created, you can [connect to your instance](vsi_is_connecting_linux_gc.html).
