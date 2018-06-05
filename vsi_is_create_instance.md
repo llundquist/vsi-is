@@ -103,6 +103,6 @@ Do you prefer to create an instance using the CLI? For more information, see [Cr
 {: tip}
 
 ## What happens next
-<!-- A series of emails are sent to your administrator: acknowledgment of the virtual server instance order, order approval and processing, and a message stating the instance is created. -->
+A series of emails are sent to your administrator: acknowledgment of the virtual server instance order, order approval and processing, and a message stating the instance is created.
 
 After the server is created, associate a floating IP address to the instance. Then you can [connect to your instance](vsi_is_connecting_linux_gc.html).
