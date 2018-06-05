@@ -3,7 +3,7 @@
 
 copyright:
   years: 2018
-lastupdated: "2018-06-01"
+lastupdated: "2018-06-05"
 
 ---
 
@@ -170,8 +170,18 @@ After you know these values, use them to run the `instance-create` command. In a
        --keys 1234xxxx-x12x-xxxx-34xx-xx1234xxxxxx
    ```
    {:codeblock}
+   
+   where:
+   - `INSTANCE_NAME` is my-instance
+   - `VPC_ID` is _VPC_ID_
+   - `ZONE_NAME` is  us-south-1
+   - `PROFILE_ID` is b-2x4
+   - `SUBNET_ID` is _SUBNET_ID_
+   - `PORT_SPEED` is 100
+   - `IMAGE_ID` is _IMAGE_ID_
+   - `KEY_IDS` is _KEY_ID1, KEY_ID2, ..._
 
-   For this example, you'd see the following responses.
+   For this example, you'd see the following responses. **Note:** The following response will vary depending on what optional values you use.
    ```
    ID                2x12xxx5-xx11-1234-x4x5-1xxx12345678   
    Name              my-instance   
