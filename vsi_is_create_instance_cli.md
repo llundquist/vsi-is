@@ -185,7 +185,7 @@ After you know these values, use them to run the `instance-create` command. In a
    ```
    ID                2x12xxx5-xx11-1234-x4x5-1xxx12345678   
    Name              my-instance   
-   Profile           B1_2X4   
+   Profile           B_2X4   
    Gen                  
    CPU Arch          amd64   
    CPU Cores         2   
@@ -218,7 +218,7 @@ After you know these values, use them to run the `instance-create` command. In a
    ```
    ID                2x12xxx5-xx11-1234-x4x5-1xxx12345678   
    Name              my-instance   
-   Profile           B1_2X4   
+   Profile           B_2X4   
    Gen                  
    CPU Arch          amd64   
    CPU Cores         2   
