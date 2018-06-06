@@ -33,7 +33,7 @@ The following management tasks are available to you:
 | ---------------------------------------| --------------------------|----------------------------- |
 | Restart          |Immediately power off an instance and then power it back on again.   |     |
 | Stop/Start          | Remotely turn an instance on or off.  | If the device has been stopped, the device remains in the stopped state and must be manually started. You cannot interact with an instance if it is stopped. If the device is started, normal interaction continues.    |
-| Rename          | Change or update an instance name.  | After renaming the device, the name is automatically updated. When performing a search, use the new instance name when attempting to locate content associated with it.    |
+| Update          | Change or update an instance name.  | After renaming the device, the name is automatically updated. When performing a search, use the new instance name when attempting to locate content associated with it.    |
 | Delete         | Permanently remove an instance and its connected vNIC, boot volume, and data from your account.  | After confirming the delete action, the process to delete the instance and its associated vNIC, boot volume, and data begins. The delete action can take several minutes, but when the process is complete, the instance no longer appears on the Virtual server instances page. The floating IP address that is associated to the virtual server instance is unassociated, but remains on your account.    |
 {: caption="Table 1. Required instance details" caption-side="top"}
 
