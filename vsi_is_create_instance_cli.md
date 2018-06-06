@@ -115,12 +115,12 @@ Use the following commands to determine the required information for creating a 
    ```
    Name            CPU Arch   CPU Cores   CPU Frequency   Memory   GPU Model   GPU Cores   GPU Count   CPU Memory   Max Volumes   Max IOPS   Max Interfaces   Max Bandwidth   
    B_2X4       amd64      2           2000            4                    0           0           0            25            0          0                0   
-   B_4X8      amd64      4           2000            8                    0           0           0            100           0          0                0   
+   B_4X8       amd64      4           2000            8                    0           0           0            100           0          0                0   
    M_16X128    amd64      16          2000            128                  0           0           0            25            0          0                0   
-   B_48X192   amd64      48          2000            192                  0           0           0            100           0          0                0   
-   B_8X32     amd64      8           2000            32                   0           0           0            100           0          0                0   
+   B_48X192    amd64      48          2000            192                  0           0           0            100           0          0                0   
+   B_8X32      amd64      8           2000            32                   0           0           0            100           0          0                0   
    C_16X16     amd64      16          2000            16                   0           0           0            25            0          0                0   
-   M_4X32     amd64      4           2000            32                   0           0           0            100           0          0                0     
+   M_4X32      amd64      4           2000            32                   0           0           0            100           0          0                0     
    ```
    {:screen}
 
