@@ -114,13 +114,13 @@ Use the following commands to determine the required information for creating a 
    For this example, you'd see a response similar to the following output:
    ```
    Name            CPU Arch   CPU Cores   CPU Frequency   Memory   GPU Model   GPU Cores   GPU Count   CPU Memory   Max Volumes   Max IOPS   Max Interfaces   Max Bandwidth   
-   B1_2X4X25       amd64      2           2000            4                    0           0           0            25            0          0                0   
-   B1_4X8X100      amd64      4           2000            8                    0           0           0            100           0          0                0   
-   M1_16X128X25    amd64      16          2000            128                  0           0           0            25            0          0                0   
-   B1_48X192X100   amd64      48          2000            192                  0           0           0            100           0          0                0   
-   B1_8X32X100     amd64      8           2000            32                   0           0           0            100           0          0                0   
-   C1_16X16X25     amd64      16          2000            16                   0           0           0            25            0          0                0   
-   M1_4X32X100     amd64      4           2000            32                   0           0           0            100           0          0                0     
+   B_2X4       amd64      2           2000            4                    0           0           0            25            0          0                0   
+   B_4X8      amd64      4           2000            8                    0           0           0            100           0          0                0   
+   M_16X128    amd64      16          2000            128                  0           0           0            25            0          0                0   
+   B_48X192   amd64      48          2000            192                  0           0           0            100           0          0                0   
+   B_8X32     amd64      8           2000            32                   0           0           0            100           0          0                0   
+   C_16X16     amd64      16          2000            16                   0           0           0            25            0          0                0   
+   M_4X32     amd64      4           2000            32                   0           0           0            100           0          0                0     
    ```
    {:screen}
 
@@ -185,7 +185,7 @@ After you know these values, use them to run the `instance-create` command. In a
    ```
    ID                2x12xxx5-xx11-1234-x4x5-1xxx12345678   
    Name              my-instance   
-   Profile           B1_2X4X25   
+   Profile           B1_2X4   
    Gen                  
    CPU Arch          amd64   
    CPU Cores         2   
@@ -218,7 +218,7 @@ After you know these values, use them to run the `instance-create` command. In a
    ```
    ID                2x12xxx5-xx11-1234-x4x5-1xxx12345678   
    Name              my-instance   
-   Profile           B1_2X4X25   
+   Profile           B1_2X4   
    Gen                  
    CPU Arch          amd64   
    CPU Cores         2   
