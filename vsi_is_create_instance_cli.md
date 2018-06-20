@@ -36,12 +36,12 @@ Let's gather that information first:
 
 |    Instance details   |  Listing options                |  Copy your values                             |
 | --------------------- | --------------------------------|---------------------------------------------- |
-| Image                 | `ibmcloud is images`            | <input type="text"/>                          |
-| Profile               | `ibmcloud is instance-profiles` | <input type="text"/>                          |
-| Key                   | `ibmcloud is keys`              | <input type="text"/>                          |
-| Subnet                | `ibmcloud is subnets`           | <input type="text"/>                          |
-| VPC                   | `ibmcloud is vpcs`              | <input type="text"/>                          |
-| Zone                  | `ibmcloud is zones`             | <input type="text"/>                          |   
+| Image                 | `ibmcloud is images`            |                                               |
+| Profile               | `ibmcloud is instance-profiles` |                                               |
+| Key                   | `ibmcloud is keys`              |                                               |
+| Subnet                | `ibmcloud is subnets`           |                                               |
+| VPC                   | `ibmcloud is vpcs`              |                                               |
+| Zone                  | `ibmcloud is zones`             |                                               |   
 {: caption="Table 1. Required instance details" caption-side="top"}   
 
 Use the following commands to determine the required information for creating a new instance.
