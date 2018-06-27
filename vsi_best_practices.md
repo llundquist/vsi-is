@@ -32,7 +32,7 @@ After you have a VPC available, consider the following before you provision your
 |__ 4. Do you know what instance location to select and why?|
 |__ 5. Have you considered the popular profile options or does your workload require additional vCPU and RAM combinations? Profiles contain preconfigured instances that are ready to use in a matter of minutes. It's important to ensure your instances will have the necessary resources to keep your workloads and your environment up and running.|
 |__ 6. What image are you selecting? You can choose among the current stock [images](vsi_is_images.html). |
-|__ 7. What are the port speeds you need? You have two port speed options: 100 MB per second, or 1 GB per second. This option cannot be modified after you create the instance.  Choose a network interface with the speed that best balances cost versus performance for your design. |
+|__ 7. What are the port speeds you need? You have two port speed options: 100 Mbps, or 1000 Mbps. This option cannot be modified after you create the instance.  Choose a network interface with the speed that best balances cost versus performance for your design. |
 |__ 8. Have you selected a unique name for the instance? If you have a method to naming virtual server instances, it is much easier to filter and search on them later. |
 
 **We'd like your input!** Beta users, when it comes to compute resources, we often hear requests for better tips on capacity considerations, account limitations, or permissions... what other tips or best practice areas are you curious about? what do you think would help?  We would love to hear from you.  Please click **Edit in Github** on this page to open a pull request or create an issue with your thoughts and ideas.  Thank you!
