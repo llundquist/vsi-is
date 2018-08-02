@@ -1,7 +1,7 @@
 {:navgroup: .navgroup}
 {:topicgroup: .topicgroup}
 
-{: .toc subcollection="virtual-servers-is" audience="compute" href="/docs/vsi-is/getting-started.html"}
+{: .toc subcollection="virtual-servers-is" audience="compute" arm="{407}" href="/docs/vsi-is/getting-started.html"}
 IBM Cloud Virtual Servers with VPC
 
     {: .navgroup id="learn"}
