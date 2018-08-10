@@ -21,7 +21,7 @@ To connect to your instance, complete the following steps:
 Locate your floating IP address for the instance to which you want to connect. To view the instance details, run the following command.
 
    ```
-   $ ibmcloud is instance-get
+   $ ibmcloud is instance INSTANCE_ID
    ```
    {:codeblock}
    
