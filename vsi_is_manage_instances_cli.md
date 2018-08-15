@@ -30,6 +30,8 @@ Ensure you have downloaded, installed, and initialized the following CLI plug-in
 * {{site.data.keyword.cloud_notm}} CLI
 * {{site.data.keyword.cloud_notm}} Regional API CLI
 
+For more information, see [CLI access](/docs/infrastructure/vpc/how-to-verify-access.html).
+
 ## Viewing instance actions
 To view the management actions performed on your instance, run the following command:
 
