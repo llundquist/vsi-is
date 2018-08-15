@@ -26,8 +26,9 @@ You can view and manage your instances using the command line interface (CLI).
 
 ## Before you begin
 Ensure you have downloaded, installed, and initialized the following CLI plug-ins:
-    * {{site.data.keyword.cloud_notm}} CLI
-    * {{site.data.keyword.cloud_notm}} Regional API CLI
+
+* {{site.data.keyword.cloud_notm}} IBM Cloud CLI
+* {{site.data.keyword.cloud_notm}} Regional API CLI
 
 ## Viewing instance actions
 To view the management actions performed on your instance, run the following command:
