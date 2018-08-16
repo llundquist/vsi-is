@@ -17,7 +17,7 @@ lastupdated: "2018-06-01"
 # Images
 
 When you provision a virtual server instance, you can select from the supported stock images. Custom images are not supported
-at this time.
+currently.
 {:shortdesc}
 
 ## Stock images
