@@ -16,7 +16,7 @@ lastupdated: "2018-06-01"
 
 # FAQs
 
-## How many servers can I start up?
+## How many servers can I start?
 {: #concurrent}
 
 An account has a limit of 25 instances that can run on public virtual servers, dedicated virtual servers, and bare metal servers, at any given time. 
