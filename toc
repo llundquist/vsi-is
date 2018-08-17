@@ -34,8 +34,8 @@ IBM Cloud Virtual Servers with VPC
     {: .navgroup-end}    
 
     {: .navgroup id="reference"}
-    [VPC API reference](../infrastructure/vpc/apis.html)
-    [Compute CLI commands with VPC](../infrastructure/vpc/cli-compute-reference.html)
+    [VPC Beta API reference](https://console.bluemix.net/docs/infrastructure/vpc/apis.html#vpc-beta-api-reference)
+    [Compute CLI commands with VPC](https://console.bluemix.net/docs/infrastructure/vpc/cli-reference.html#compute)
     {: .navgroup-end}
 
     {: .navgroup id="help"}
