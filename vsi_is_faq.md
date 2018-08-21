@@ -21,7 +21,7 @@ lastupdated: "2018-06-01"
 
 An account has a limit of 25 instances that can run on public virtual servers, dedicated virtual servers, and bare metal servers, at any given time. 
 
-## How do I get support for my virtual server instances while participating in the IBM Cloud VPC beta?
+## How do I get support for my virtual server instances?
 {: #betasupport}
 
-For more information about VPC beta support, see [Getting help and support](/docs/infrastructure/vpc/getting-help.html).
+For more information about VPC support, see [Getting help and support](/docs/infrastructure/vpc/getting-help.html).
