@@ -14,7 +14,7 @@ lastupdated: "2018-06-01"
 {:table: .aria-labeledby="caption"}
 {:tip: .tip}
 
-# IBM Cloud Virtual Servers for VPC 
+# IBM Cloud Virtual Servers for VPC (Beta)
 {: #gettingstartedvsigen}
 
 Using {{site.data.keyword.BluVirtServers_full}} for IBM Cloud Virtual Private Cloud (VPC), you can provision compute resources to a VPC network that you previously created. All of this is available in the improved IBM Cloud console, that was built with your feedback! Bet you're anxious to get started, so let's get straight to business.
