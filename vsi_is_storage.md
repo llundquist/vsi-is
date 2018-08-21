@@ -16,7 +16,7 @@ lastupdated: "2018-06-01"
 
 # Storage
 
-When you provision a virtual server through the beta offering, a 100 GB primary SAN boot volume is assigned to the virtual server by default.
+When you provision a virtual server, a 100 GB primary SAN boot volume is assigned to the virtual server by default.
 {:shortdesc}
 
 Portable storage and supplemental storage are not supported.
