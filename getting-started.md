@@ -14,10 +14,10 @@ lastupdated: "2018-06-01"
 {:table: .aria-labeledby="caption"}
 {:tip: .tip}
 
-# IBM Cloud Virtual Servers with VPC 
+# IBM Cloud Virtual Servers for VPC 
 {: #gettingstartedvsigen}
 
-Using {{site.data.keyword.BluVirtServers_full}} with IBM Cloud Virtual Private Cloud (VPC), you can provision compute resources to a VPC network that you previously created. All of this is available in the improved IBM Cloud console, that was built with your feedback! Bet you're anxious to get started, so let's get straight to business.
+Using {{site.data.keyword.BluVirtServers_full}} for IBM Cloud Virtual Private Cloud (VPC), you can provision compute resources to a VPC network that you previously created. All of this is available in the improved IBM Cloud console, that was built with your feedback! Bet you're anxious to get started, so let's get straight to business.
 {:shortdesc}
 
 Currently, in the IBM Cloud Virtual Private Cloud (VPC), you cannot create an instance before you create a VPC.  If you do not have a virtual private cloud created, see [Getting started with IBM Cloud Virtual Private Cloud (VPC)](/docs/infrastructure/vpc/getting-started.html) first. This limitation will be removed soon!
