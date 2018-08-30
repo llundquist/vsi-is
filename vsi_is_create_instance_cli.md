@@ -274,7 +274,7 @@ After you know these values, use them to run the `instance-create` command. In a
     ```
     {:screen}
 
-    Remember the floating IP `Address` for later.  
+    Remember the floating IP address for later.  
 
 Need more help? You can always run `ibmcloud is help` when needed.
 {: tip}
