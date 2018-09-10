@@ -19,7 +19,7 @@ lastupdated: "2018-06-01"
 When you are planning to provision {{site.data.keyword.BluVirtServers}} instances, you might find this configuration checklist helpful to get the most out of your virtual server deployment.
 {:shortdesc}
 
-Currently, in the IBM Cloud Virtual Private Cloud (VPC) beta, you cannot create an instance before you create a VPC.  If you do not have a virtual private cloud created, see [Getting started with IBM Cloud Virtual Private Cloud (VPC)](/docs/infrastructure/vpc/getting-started.html) first.
+Currently, in the IBM Cloud Virtual Private Cloud (VPC), you cannot create an instance before you create a VPC.  If you do not have a virtual private cloud created, see [Getting started with IBM Cloud Virtual Private Cloud (VPC)](/docs/infrastructure/vpc/getting-started.html) first.
 {:tip}
 
 After you have a VPC available, consider the following before you provision your instance.
